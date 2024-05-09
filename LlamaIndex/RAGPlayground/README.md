@@ -1,19 +1,39 @@
 ## Introduction 
-RAG playground - 
+# RAG Playground
 
-Build a RAG application which will let you upload PDF's and ask questions about them. 
+## Overview
 
-LLamaIndex was used to create RAG. Streamlit for interface.
+The RAG Playground is an application designed to facilitate question-answering tasks based on uploaded PDF documents. It leverages LLamaIndex for RAG functionalities and utilizes Streamlit for the user interface.
 
-Basic RAG concepts were used to develop this project:
+## Key Features
 
-1. Load PDF and then read text using PDFReader. 
-2. Loading of data into Documents in LLamaIndex and chunking and converting them into nodes all this was done using VectorStoreIndex.from_documents
-3. The text is then chunked and converted to embeddings - for embeddings BGE model was used specifically - BAAI/bge-small-en-v1.5  
-4. After retreival added reranker which will reorder search results based on their relevance to a query. So after query retreival reorder happens. In this case first we will get 10 chunks based on similarity they are reranked using reranker which will give top 3.
+- **PDF Upload:** Easily upload PDF files to the application.
+- **Questioning:** Ask questions about the uploaded PDF documents.
+- **RAG Integration:** Utilize LLamaIndex for RAG capabilities.
+- **Embeddings:** Convert text to embeddings using the BAAI/bge-small-en-v1.5 model.
+- **Reranker:** Reorder search results based on relevance to queries.
+- **Streamlit Optimization:** Enhance performance using `@st.experimental_fragment` and `@st.cache_resource`.
 
-The application was built using Streamlit and to optimize streamlit @st.experimental_fragment and @st.cache_resource were used.
+## Project Workflow
 
+1. **PDF Processing:**
+   - Load PDF files and extract text using PDFReader.
+   - Load data into Documents in LLamaIndex.
+2. **Chunking and Conversion:**
+   - Chunk text and convert it into nodes using `VectorStoreIndex.from_documents`.
+   - Convert text to embeddings using the BAAI/bge-small-en-v1.5 model.
+3. **Search Optimization:**
+   - Implement a reranker to reorder search results based on query relevance.
+   - Display top-ranked results after reranking.
+4. **Interface Optimization:**
+   - Build the user interface using Streamlit.
+   - Optimize Streamlit performance with `@st.experimental_fragment` and `@st.cache_resource`.
+
+## Technologies Used
+
+- LLamaIndex
+- Streamlit
+- BAAI/bge-small-en-v1.5 model
 
 
 ## Quick Demo
