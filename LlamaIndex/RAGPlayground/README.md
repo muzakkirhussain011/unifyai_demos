@@ -15,7 +15,9 @@ Basic RAG concepts were used to develop this project:
 The application was built using Streamlit and to optimize streamlit @st.experimental_fragment and @st.cache_resource were used.
 
 
+
 ## Quick Demo
+[streamlit-app-2024-05-09-02-05-91.webm](https://github.com/abhi2596/rag_demo/assets/80634226/b244dbdf-b292-4ab9-bf04-cfe92404c4be)
 
 ## Repository and Deployment
 Github - https://github.com/abhi2596/UnifyAI_RAG_playground/tree/main
