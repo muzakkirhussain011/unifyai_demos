@@ -29,6 +29,12 @@ LLM Wars demonstrates novel LLM applications beyond common use cases by creating
 ## Quick Demo
 https://github.com/unifyai/demos/assets/43880587/aba328d2-4c9e-4cd4-a6aa-82657e806145
 
+<!--
+.. video:: _static/video.mp4
+   :width: 640
+   :height: 360
+-->
+
 ## Repository and Deployment
 ### Access the Source Code
 The source code for **LLM Wars** is part of a larger collection of demos. You can access the original source code for this specific project [here](https://github.com/leebissessar5/Unify-LLM-Wars).
