@@ -11,6 +11,7 @@
 <p align="center">
     <h1 align="center">⚔️ Unify Chatbot Arena: Benchmarking LLMs in the Wild</h1>
 </p>
+[Demo](https://github.com/Kacper-W-Kozdon/LLM_playground/assets/102428159/077d3a5a-6025-4c5f-bfa9-a72f82190763)
 <p align="center">
     <em>This Streamlit application provides a user interface for interacting with Unify models through chat. It allows users to select models and providers, input text, and view the conversation history with AI assistants.
 </em>
@@ -60,9 +61,6 @@ This Streamlit application provides a user interface for interacting with Unify 
 
 ---
 ## Usage
-
-
-https://github.com/Kacper-W-Kozdon/LLM_playground/assets/102428159/077d3a5a-6025-4c5f-bfa9-a72f82190763
 
 
 1. Input Unify API Key: Enter your Unify API key in the provided text input box on the sidebar.
