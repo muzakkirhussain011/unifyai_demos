@@ -1,7 +1,3 @@
-<a href="https://llm-playground-unify.streamlit.app/" target="_blank">
-  <img src="app_screenshot_from_Kacper.png" alt="Screenshot">
-</a>
-
 
 # 
 
@@ -16,6 +12,9 @@
 https://github.com/Kacper-W-Kozdon/demos-Unify/assets/102428159/8ed6ae60-4005-4557-bc8f-154c1a4d58c7
 
 
+<a href="https://llm-playground-unify.streamlit.app/" target="_blank">
+  <img src="app_screenshot_from_Kacper.png" alt="Screenshot">
+</a>
 <p align="center">
     <em>This Streamlit application provides a user interface for interacting with Unify models through chat. It allows users to select models and providers, input text, and view the conversation history with AI assistants.
 </em>
