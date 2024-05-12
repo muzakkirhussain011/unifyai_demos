@@ -144,7 +144,7 @@ https://github.com/Kacper-W-Kozdon/LLM_playground/assets/102428159/077d3a5a-6025
 ###  Usage
 
     ```bash
-    streamlit run stream.py
+    streamlit run Chatbot_arena.py
     ```
 
 ###  Tests
