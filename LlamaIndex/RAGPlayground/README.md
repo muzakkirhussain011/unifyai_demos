@@ -1,7 +1,7 @@
-## Introduction 
-# RAG Playground
+## # RAG Playground Using LlamaIndex
+[streamlit-app-2024-05-09-02-05-91.webm](https://github.com/abhi2596/rag_demo/assets/80634226/b244dbdf-b292-4ab9-bf04-cfe92404c4be)
 
-## Overview
+## Introduction 
 
 The RAG Playground is an application designed to facilitate question-answering tasks based on uploaded PDF documents. It leverages LLamaIndex for RAG functionalities and utilizes Streamlit for the user interface.
 
@@ -34,10 +34,6 @@ The RAG Playground is an application designed to facilitate question-answering t
 - LLamaIndex
 - Streamlit
 - BAAI/bge-small-en-v1.5 model
-
-
-## Quick Demo
-[streamlit-app-2024-05-09-02-05-91.webm](https://github.com/abhi2596/rag_demo/assets/80634226/b244dbdf-b292-4ab9-bf04-cfe92404c4be)
 
 ## Repository and Deployment
 Github - https://github.com/abhi2596/UnifyAI_RAG_playground/tree/main

@@ -66,7 +66,7 @@ if uploaded_file is not None:
         return index 
     
     index = vector_store(uploaded_file)
-    chat_engine = index.as_chat_engine(chat_mode="condense_plus_context",verbose=True,similarity_top_k=10,node_postprocessors=[rerank_model()])
+    chat_engine = index.as_chat_engine(chat_mode="context",verbose=True,similarity_top_k=10,node_postprocessors=[rerank_model()])
 
 # Initialize chat history
 if "messages" not in st.session_state:
