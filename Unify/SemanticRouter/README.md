@@ -1,10 +1,19 @@
-# Introduction:
+# Semantic Router
+[Demo](https://github.com/unifyai/demos/videos/semanticroutervideo.mp4)
+
+<video width="640" height="480" autoplay>
+  <source src="../../../../_static/semanticroutervideo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
+
+## Introduction:
 This streamlit application dynamically routes user queries to the most appropriate model based on semantic similarity.User queries are sent to predefined routes of maths or coding or users have the option to create their own custom route. This optimizes output quality whilst cutting costs.
-# Quick Demo
-[Click here to view the video](https://youtu.be/1rEScRYv8gw)
 
 
-# Repository and deployment
+
+## Repository and deployment
 Access using the following URL: [https://semanticrouterchatbot.streamlit.app/](https://semanticrouterchatbot.streamlit.app/) or follow the sections below to get started.
 Fork from this respository:[https://github.com/ithanigaikumar/SemanticRouter]
 To set up the project, you will need to install several Python packages. You can do this using pip, Python's package installer. Execute the following commands in your terminal or command prompt to install the required packages.
@@ -29,7 +38,7 @@ Make sure that each command completes successfully before proceeding to the next
 
 
   
-# Contributors
+## Contributors
 
 | Name                          | GitHub Username |
 |-------------------------------|-----------------|
