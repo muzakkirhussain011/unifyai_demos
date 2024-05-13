@@ -49,7 +49,7 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 
 ---
 
-## Tech Tack
+## Tech Stack
 1. [Unify](https://unify.ai/)
 	```python
 	  from unify import AsyncUnify
