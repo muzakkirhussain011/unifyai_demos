@@ -96,7 +96,9 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 
 <h4>From <code>source</code></h4>
 
-## Setup: Repository and Deployment
+## Setup
+
+### Repository and Deployment
 
 1. Clone this repository:
 
@@ -115,7 +117,7 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
     pip install -r requirements.txt
     ```
 
-###  Run the app
+### Run the app
 ```bash
 streamlit run Chatbot_arena.py
 ```
