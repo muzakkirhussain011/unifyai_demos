@@ -108,12 +108,16 @@ streamlit run Chatbot_arena.py
 
 
 ---
-## Contributor Graph
+## Contributors
 <p align="center">
    <a href="https://github.com{/samthakur587/LLM_playground/}graphs/contributors">
       <img src="https://contrib.rocks/image?repo=samthakur587/LLM_playground">
    </a>
 
+| Name | GitHub Profile |
+|------|----------------|
+| Samunder Singh | [leebissessar](https://github.com/samthakur587) |
+| Kacper Kożdoń | [WHITELOTUS0](https://github.com/Kacper-W-Kozdon) |
 
 ---
 ## Used the Unify streaming API
