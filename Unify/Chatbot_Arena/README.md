@@ -23,9 +23,9 @@ Your browser does not support the video tag.
 		<img src="https://skillicons.dev/icons?i=python,docker,github,gcp">
 	</a></p>
 
+## Introduction
 
-
-##  Overview
+###  Overview
 This Streamlit application provides a user interface for interacting with Unify models through chat. It allows users to select models and providers, input text, and view the conversation history with AI assistants.
 
 ---
@@ -35,7 +35,7 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 
 ---
 
-## Features
+### Features
 
 - **Chat UI**: Interactive chat interface to communicate with AI assistants.
 - **Endpoint from Unify**: Choose from a variety of models and providers.
@@ -45,7 +45,7 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 
 ---
 
-## Tech Stack
+### Tech Stack
 1. [Unify](https://unify.ai/)
 	```python
 	  from unify import AsyncUnify
@@ -64,7 +64,7 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
  2. [streamlit](https://streamlit.io/)
 
 ---
-## How to use the app
+### How to use the app
 
 
 1. Input Unify API Key: Enter your Unify API key in the provided text input box on the sidebar.
@@ -79,7 +79,7 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 
 ---
 
-##  Getting Started
+###  Getting Started
 
 **System Requirements:**
 
@@ -88,15 +88,15 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 * extra: look into the `requirements.txt` and `requirements-test.txt` files
 
 
-###  Easy installation
+####  Easy installation
 
 <h4>From <code>source</code> in order to use the attached Docker file.</h4>
 
 ---
 
-## Setup (without Docker)
+## Repository and Deployment
 
-### Repository and Deployment
+### Setup (without Docker)
 
 1. Clone this repository:
 
