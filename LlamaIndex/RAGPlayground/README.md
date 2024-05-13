@@ -1,5 +1,10 @@
 ## RAG Playground Using LlamaIndex
-[streamlit-app-2024-05-09-02-05-91.webm](https://github.com/abhi2596/rag_demo/assets/80634226/b244dbdf-b292-4ab9-bf04-cfe92404c4be)
+[Demo](https://github.com/unifyai/demos/assets/43880587/aba328d2-4c9e-4cd4-a6aa-82657e806145)
+
+<video width="640" height="480" autoplay>
+  <source src="../../../../_static/RAG_LlamaIndex.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ## Introduction 
 
@@ -29,7 +34,7 @@ The RAG Playground is an application designed to facilitate question-answering t
    - Build the user interface using Streamlit.
    - Optimize Streamlit performance with `@st.experimental_fragment` and `@st.cache_resource`.
 
-## Technologies Used
+## Tech Stack Used
 
 - LLamaIndex
 - Streamlit
