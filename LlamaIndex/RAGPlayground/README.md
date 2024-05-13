@@ -1,5 +1,5 @@
 ## RAG Playground Using LlamaIndex
-[Demo](https://github.com/unifyai/demos/assets/43880587/aba328d2-4c9e-4cd4-a6aa-82657e806145)
+[Demo]()
 
 <video width="640" height="480" autoplay>
   <source src="../../../../_static/RAG_LlamaIndex.mp4" type="video/mp4">
