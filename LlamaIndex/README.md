@@ -1,5 +1,5 @@
 # LlamaIndex Projects
-This folder contains various projects built using the LangChain Unify Integration. Please headover to the corresponding folder of the project for more details. 
+This folder contains various projects built using the LLamaIndex Unify Integration. Please headover to the corresponding folder of the project for more details. 
 
 ## Introduction
 Provide a brief introduction to your project here. Describe what your project demonstrates, the tech stack used, the motivation behind the project, and briefly explain the necessary concepts used. Feel free to break down this section into multiple subsections depending on your project.
