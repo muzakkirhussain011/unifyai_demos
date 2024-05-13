@@ -1,15 +1,15 @@
 # Semantic Router
 [Demo](https://github.com/unifyai/demos/blob/0be2009315c9a11347cf03d02c9dba394d7afd0e/videos/semanticroutervideo.mp4)
 
-<video width="640" height="480" autoplay>
-  <source src="../../../../_static/semanticroutervideo.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<video width="640" height="480" controls>
+  <source src="https://raw.githubusercontent.com/unifyai/demos/0be2009315c9a11347cf03d02c9dba394d7afd0e/videos/semanticroutervideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 
 
 ## Introduction:
-This streamlit application dynamically routes user queries to the most appropriate model based on semantic similarity.User queries are sent to predefined routes of maths or coding or users have the option to create their own custom route. This optimizes output quality .
+This Streamit application dynamically routes user queries to the most appropriate model based on semantic similarity. User queries are sent to predefined routes of maths or coding or users have the option to create their own custom route. This optimizes output quality while minimizing the cost.
 
 
 
@@ -42,5 +42,5 @@ Make sure that each command completes successfully before proceeding to the next
 
 | Name                          | GitHub Username |
 |-------------------------------|-----------------|
-| Indiradharshini Thanigaikumar | ithanigaikumar  |
-| Jeyabalan Nadar               | jeyabalang      |
+| Indiradharshini Thanigaikumar | [ithanigaikumar](https://github.com/ithanigaikumar)  |
+| Jeyabalan Nadar               | [jeyabalang](https://github.com/jeyabalang)    |
