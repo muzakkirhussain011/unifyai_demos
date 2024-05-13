@@ -94,7 +94,9 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 
 ###  Installation
 
-<h4>From <code>source</code></h4>
+<h4>From <code>source</code> in order to use the attached Docker file.</h4>
+
+---
 
 ## Setup
 
