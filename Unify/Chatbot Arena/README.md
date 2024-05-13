@@ -28,24 +28,6 @@ https://github.com/Kacper-W-Kozdon/demos-Unify/assets/102428159/8ed6ae60-4005-45
 	</a></p>
 
 
-<br><!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary><br>
-
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
-</details>
-<hr>
 
 ##  Overview
 This Streamlit application provides a user interface for interacting with Unify models through chat. It allows users to select models and providers, input text, and view the conversation history with AI assistants.
