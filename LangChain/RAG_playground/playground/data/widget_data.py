@@ -1,5 +1,14 @@
+"""
+This module, `widget_data.py`, provides data for the widgets in the Streamlit application.
 
+It includes the following main dictionaries:
+- `model_provider`: This dictionary maps each model to a list of providers.
+- `model_max_context_limit`: This dictionary maps each model to its maximum context limit.
 
+The module does not import any modules or functions.
+"""
+
+# Dictionary mapping each model to a list of providers
 model_provider = {
                 "mixtral-8x7b-instruct-v0.1": ["together-ai", "octoai", "replicate", "mistral-ai", "perplexity-ai",
                                                "anyscale", "fireworks-ai", "lepton-ai", "deepinfra", "aws-bedrock"],
@@ -25,13 +34,56 @@ model_provider = {
                 "claude-3-opus": ["anthropic"], "claude-3-sonnet": ["anthropic"]
 }
 
+# Dictionary mapping each model to its maximum context limit
+model_max_context_limit = {
+                "mixtral-8x7b-instruct-v0.1": 32000,
+                "llama-2-70b-chat": 4096,
+                "llama-2-13b-chat": 4096,
+                "mistral-7b-instruct-v0.2": 8192,
+                "llama-2-7b-chat": 4096,
+                "codellama-34b-instruct": 4096,
+                "gemma-7b-it": 8192,
+                "mistral-7b-instruct-v0.1": 512,
+                "mixtral-8x22b-instruct-v0.1": 65536,
+                "codellama-13b-instruct": 4096,
+                "codellama-7b-instruct": 4096,
+                "yi-34b-chat": 4096,
+                "llama-3-8b-chat": 8192,
+                "llama-3-70b-chat": 8192,
+                "pplx-7b-chat": 4096,
+                "mistral-medium": 32000,
+                "gpt-4": 32000,
+                "pplx-70b-chat": 4096,
+                "gpt-3.5-turbo": 16000,
+                "deepseek-coder-33b-instruct": 16000,
+                "gemma-2b-it": 8192,
+                "gpt-4-turbo": 128000,
+                "mistral-small": 32000,
+                "mistral-large": 32000,
+                "claude-3-haiku": 200000,
+                "claude-3-opus": 200000,
+                "claude-3-sonnet": 200000
+}
+
+# Dictionary mapping each model slider to its corresponding session_state key
 dynamic_provider = ["lowest-input-cost", "lowest-output-cost", "lowest-itl", "lowest-ttft", "highest-tks-per-sec"]
 
+# Dictionary mapping each model slider to its corresponding session_state key
 model_reset_dict = {
                     "slider_model_temperature": "model_temperature"
                 }
 
+# Dictionary mapping each splitter slider to its corresponding session_state key
 splitter_reset_dict = {
                     "slider_chunk_size": "chunk_size",
                     "slider_chunk_overlap": "chunk_overlap"
                 }
+
+# Dictionary mapping each retriever slider to its corresponding session_state key
+retriever_reset_dict = {
+                    "slider_k": "k",
+                    "slider_fetch_k": "fetch_k",
+                    "slider_lambda_mult": "lambda_mult",
+                    "slider_score_threshold": "score_threshold"
+}
+
