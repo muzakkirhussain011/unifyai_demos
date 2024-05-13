@@ -128,7 +128,6 @@ streamlit run Chatbot_arena.py
 The streamlit version of the app can be accessed [here](https://llm-playground-unify.streamlit.app/).
 
 
----
 ###  Tests
 
 > Run the test suite using the command below:
