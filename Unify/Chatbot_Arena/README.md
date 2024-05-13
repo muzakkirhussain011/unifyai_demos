@@ -26,14 +26,12 @@ Your browser does not support the video tag.
 ## Introduction
 
 ###  Overview
-This Streamlit application provides a user interface for interacting with Unify models through chat. It allows users to select models and providers, input text, and view the conversation history with AI assistants.
+This Streamlit application provides a user interface for interacting with Unify models through the chat. It allows users to select models and providers, input text, and view the conversation history with two AI assistants at a time. The app collects the data on the users' assessment of the comparative models' performance and provides an easy access to the global leaderboards which can be used as a complementary form of assessment of the performance of the models.
 
----
 
-## Motivation
-The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2403.04132) article.
+### Motivation
+The challenge project "Chatbot arena" is based on [this article](https://arxiv.org/abs/2403.04132).
 
----
 
 ### Features
 
@@ -43,7 +41,6 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 - **Clear History**: Option to clear the conversation history for a fresh start.
 - **Global Leaderboards**: The votes are saved locally and [globally](https://docs.google.com/spreadsheets/d/10QrEik70RYY_LM8RW8GGq-vZWK2e1dka6agRGtKZPHU/edit#gid=0).
 
----
 
 ### Tech Stack
 1. [Unify](https://unify.ai/)
@@ -63,7 +60,7 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 	```
  2. [streamlit](https://streamlit.io/)
 
----
+
 ### How to use the app
 
 
@@ -77,7 +74,6 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 
 5. Clear History: You can clear the conversation history by clicking the "Clear History" button.
 
----
 
 ###  Getting Started
 
@@ -123,13 +119,6 @@ streamlit run Chatbot_arena.py
 ### Access the web app
 The streamlit version of the app can be accessed [here](https://llm-playground-unify.streamlit.app/).
 
-
-###  Tests
-
-> Run the test suite using the command below:
-> ```console
-> $ pytest
-> ```
 
 ---
 ## Contributors
