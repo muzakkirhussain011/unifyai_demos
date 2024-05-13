@@ -1,6 +1,11 @@
 # LLM-Wars
+[Demo](https://github.com/unifyai/demos/assets/43880587/aba328d2-4c9e-4cd4-a6aa-82657e806145)
 
-## Introduction
+<video width="640" height="480" autoplay>
+  <source src="../../../../_static/llm-wars.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### Overview
 **LLM Wars** is a web application built with Streamlit that sets up a dynamic competition between two Large Language Models (LLMs). The LLMs engage in a structured debate where they challenge each other by generating complex prompts, responding to those prompts, and evaluating the responses. This application demonstrates the natural language capabilities of modern AI models in an interactive competitive environment with visualizations.
 
@@ -27,13 +32,6 @@ LLM Wars demonstrates novel LLM applications beyond common use cases by creating
 - **Natural Language Understanding and Generation**: At the core of LLM Wars is the ability of LLMs to understand and generate human-like text, showcasing advancements in AI language models.
 - **API Integration**: Demonstrates how to effectively integrate and utilize third-party APIs (Unify AI) within a Python-based application.
 
-## Quick Demo
-https://github.com/unifyai/demos/assets/43880587/aba328d2-4c9e-4cd4-a6aa-82657e806145
-
-<video width="320" height="240" controls>
-  <source src="./assets/LLMWARs.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
 ## Repository and Deployment
 ### Access the Source Code
