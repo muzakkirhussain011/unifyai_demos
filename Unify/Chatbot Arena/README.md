@@ -91,7 +91,6 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 * **streamlit**
 * extra: look into the `requirements.txt` and `requirements-test.txt` files
 
----
 
 ###  Installation
 
@@ -115,13 +114,11 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
     ```bash
     pip install -r requirements.txt
     ```
----
 
 ###  Run the app
 ```bash
 streamlit run Chatbot_arena.py
 ```
----
 
 ### Access the web app
 The streamlit version of the app can be accessed [here](https://llm-playground-unify.streamlit.app/).
