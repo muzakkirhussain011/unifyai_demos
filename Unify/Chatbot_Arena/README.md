@@ -1,16 +1,12 @@
 
-# 
+# ⚔️ Unify Chatbot Arena: Benchmarking LLMs in the Wild
 
+[Demo](https://github.com/Kacper-W-Kozdon/demos-Unify/assets/102428159/e5908b4e-0cd7-445d-a1ac-3086be2db5ba)
 
-
-
-<p align="center">
-    <h1 align="center">⚔️ Unify Chatbot Arena: Benchmarking LLMs in the Wild</h1>
-</p>
-
-
-https://github.com/Kacper-W-Kozdon/demos-Unify/assets/102428159/8ed6ae60-4005-4557-bc8f-154c1a4d58c7
-
+<video width="640" height="480" autoplay>
+  <source src="../../../../_static/Chatbot_arena.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 <p align="center">
