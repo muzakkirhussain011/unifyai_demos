@@ -1,10 +1,15 @@
 ## RAG Playground Using LlamaIndex
-[Demo]([https://github.com/abhi2596/rag_demo/assets/80634226/3dc3b01b-917e-4503-98a4-b8cf99cb5ce5])
+[Demo]([
+
+https://github.com/abhi2596/rag_demo/assets/80634226/08f6c7c4-65e3-49b4-bfb1-9a5db2cce248
+
+])
 
 <video width="640" height="480" autoplay>
   <source src="../../../../_static/RAG_LlamaIndex.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
 ## Introduction 
 
 The RAG Playground is an application designed to facilitate question-answering tasks based on uploaded PDF documents. It leverages LLamaIndex for RAG functionalities and utilizes Streamlit for the user interface.
