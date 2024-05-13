@@ -137,7 +137,7 @@ streamlit run Chatbot_arena.py
 | Samunder Singh | [leebissessar](https://github.com/samthakur587) |
 | Kacper Kożdoń | [WHITELOTUS0](https://github.com/Kacper-W-Kozdon) |
 
-  <a href="https://github.com{/samthakur587/LLM_playground/}graphs/contributors">
+  <a href="https://github.com{/samthakur587/LLM_playground/graphs/contributors">
       <img src="https://contrib.rocks/image?repo=samthakur587/LLM_playground">
    </a>
 </p>
