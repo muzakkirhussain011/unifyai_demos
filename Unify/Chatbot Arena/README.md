@@ -41,6 +41,25 @@ This Streamlit application provides a user interface for interacting with Unify 
 - **Conversation History**: View and track the conversation history with each model.
 - **Clear History**: Option to clear the conversation history for a fresh start.
 
+---
+
+## Tech Tack
+1. [Unify](https://unify.ai/)
+	```python
+	  from unify import AsyncUnify
+	  import os
+	  import asyncio
+	  async_unify = AsyncUnify(
+	     # This is the default and optional to include.
+	     api_key=os.environ.get("UNIFY_KEY"),
+	     endpoint="llama-2-13b-chat@anyscale"
+	  )
+	async def main():
+	   responses = await async_unify.generate(user_prompt="Hello Llama! Who was Isaac Newton?")
+	
+	asyncio.run(main())
+	```
+ 2. [streamlit](https://streamlit.io/)
 
 ---
 ## Usage
@@ -110,29 +129,18 @@ streamlit run Chatbot_arena.py
 ---
 ## Contributors
 <p align="center">
-   <a href="https://github.com{/samthakur587/LLM_playground/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=samthakur587/LLM_playground">
-   </a>
+   
+
 
 | Name | GitHub Profile |
 |------|----------------|
 | Samunder Singh | [leebissessar](https://github.com/samthakur587) |
 | Kacper Kożdoń | [WHITELOTUS0](https://github.com/Kacper-W-Kozdon) |
 
+  <a href="https://github.com{/samthakur587/LLM_playground/}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=samthakur587/LLM_playground">
+   </a>
+</p>
 ---
-## Used the Unify streaming API
-```python
-  from unify import AsyncUnify
-  import os
-  import asyncio
-  async_unify = AsyncUnify(
-     # This is the default and optional to include.
-     api_key=os.environ.get("UNIFY_KEY"),
-     endpoint="llama-2-13b-chat@anyscale"
-  )
-async def main():
-   responses = await async_unify.generate(user_prompt="Hello Llama! Who was Isaac Newton?")
 
-asyncio.run(main())
-```
 
