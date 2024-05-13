@@ -41,23 +41,6 @@ The challenge project "Chatbot arena" is based on [this article](https://arxiv.o
 - **Global Leaderboards**: The votes are saved locally and [globally](https://docs.google.com/spreadsheets/d/10QrEik70RYY_LM8RW8GGq-vZWK2e1dka6agRGtKZPHU/edit#gid=0).
 
 
-### Tech Stack
-1. [Unify](https://unify.ai/)
-	```python
-	  from unify import AsyncUnify
-	  import os
-	  import asyncio
-	  async_unify = AsyncUnify(
-	     # This is the default and optional to include.
-	     api_key=os.environ.get("UNIFY_KEY"),
-	     endpoint="llama-2-13b-chat@anyscale"
-	  )
-	async def main():
-	   responses = await async_unify.generate(user_prompt="Hello Llama! Who was Isaac Newton?")
-	
-	asyncio.run(main())
-	```
- 2. [streamlit](https://streamlit.io/)
 
 
 ### How to use the app
