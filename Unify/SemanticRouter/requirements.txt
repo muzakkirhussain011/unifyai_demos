@@ -1,0 +1,9 @@
+streamlit
+semantic-router==0.0.34
+unifyai
+transformers
+torch
+
+
+
+
