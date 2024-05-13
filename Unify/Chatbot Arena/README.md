@@ -34,12 +34,18 @@ This Streamlit application provides a user interface for interacting with Unify 
 
 ---
 
+## Motivation
+The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2403.04132) article.
+
+---
+
 ## Features
 
 - **Chat UI**: Interactive chat interface to communicate with AI assistants.
 - **Endpoint from Unify**: Choose from a variety of models and providers.
 - **Conversation History**: View and track the conversation history with each model.
 - **Clear History**: Option to clear the conversation history for a fresh start.
+- **Global Leaderboards**: The votes are saved locally and [globally](https://docs.google.com/spreadsheets/d/10QrEik70RYY_LM8RW8GGq-vZWK2e1dka6agRGtKZPHU/edit#gid=0)
 
 ---
 
@@ -62,7 +68,7 @@ This Streamlit application provides a user interface for interacting with Unify 
  2. [streamlit](https://streamlit.io/)
 
 ---
-## Usage
+## How to use the app
 
 
 1. Input Unify API Key: Enter your Unify API key in the provided text input box on the sidebar.
@@ -83,11 +89,13 @@ This Streamlit application provides a user interface for interacting with Unify 
 
 * **Python**: `version x.y.z`
 
+---
+
 ###  Installation
 
 <h4>From <code>source</code></h4>
 
-## Setup
+## Setup: Repository and Deployment
 
 1. Clone this repository:
 
@@ -105,26 +113,25 @@ This Streamlit application provides a user interface for interacting with Unify 
     ```bash
     pip install -r requirements.txt
     ```
+---
 
-###  Usage
+###  Run the app
 ```bash
 streamlit run Chatbot_arena.py
 ```
+---
 
+### Access the web app
+The streamlit version of the app can be accessed [here](https://llm-playground-unify.streamlit.app/).
+
+
+---
 ###  Tests
 
 > Run the test suite using the command below:
 > ```console
 > $ pytest
 > ```
----
-
-##  Project Roadmap
-
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
-
 
 ---
 ## Contributors
