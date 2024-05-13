@@ -45,7 +45,7 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 - **Endpoint from Unify**: Choose from a variety of models and providers.
 - **Conversation History**: View and track the conversation history with each model.
 - **Clear History**: Option to clear the conversation history for a fresh start.
-- **Global Leaderboards**: The votes are saved locally and [globally](https://docs.google.com/spreadsheets/d/10QrEik70RYY_LM8RW8GGq-vZWK2e1dka6agRGtKZPHU/edit#gid=0)
+- **Global Leaderboards**: The votes are saved locally and [globally](https://docs.google.com/spreadsheets/d/10QrEik70RYY_LM8RW8GGq-vZWK2e1dka6agRGtKZPHU/edit#gid=0).
 
 ---
 
