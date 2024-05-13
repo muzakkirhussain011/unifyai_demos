@@ -9,7 +9,7 @@
 
 
 ## Introduction:
-The Streamit application optimizes user query handling by dynamically routing each query to the most appropriate model based on semantic similarity.A routing layer is included to help with this process. This system supports predefined routes for domains like maths and coding, and allows users to create custom routes for unique needs. By ensuring that queries are processed by the best-suited model, Streamit enhances output quality and improves cost efficiency. This approach not only delivers more accurate and contextually relevant responses but also enhances overall user satisfaction.
+This semantic router Streamit application optimizes user query handling by dynamically routing each query to the most appropriate model based on semantic similarity.A routing layer is included to help with this process. This system supports predefined routes for domains like maths and coding, and allows users to create custom routes for unique needs. By ensuring that queries are processed by the best-suited model, the semantic router enhances output quality and improves cost efficiency. This approach not only delivers more accurate and contextually relevant responses but also enhances overall user satisfaction.
 
 
 ## Repository and deployment
