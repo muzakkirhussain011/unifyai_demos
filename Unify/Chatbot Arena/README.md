@@ -57,41 +57,6 @@ This Streamlit application provides a user interface for interacting with Unify 
 5. Clear History: You can clear the conversation history by clicking the "Clear History" button.
 
 ---
-##  Repository Structure
-```sh
-├── CONTRIBUTING.md
-├── Dockerfile
-├── LICENSE
-├── Procfile
-├── README.md
-├── __init__.py
-├── __pycache__
-│   ├── __init__.cpython-310.pyc
-│   └── helpers.cpython-310.pyc
-├── app_screenshot_from_Kacper.png
-├── chatbot_arena.py
-├── detail_leaderboards.csv
-├── detail_leaderboards.json
-├── helpers.py
-├── leaderboard.csv
-├── models.json
-├── pages
-│   ├── 1_leaderboards.py
-│   └── 2_import_model.py
-├── requirements-test.txt
-├── requirements.txt
-├── test
-│   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-310.pyc
-│   │   └── test_app.cpython-310-pytest-8.2.0.pyc
-│   └── test_helper.py
-└── utils
-    ├── __init__.py
-    ├── logging.py
-    └── metadata.py
-
-```
 
 ##  Getting Started
 
