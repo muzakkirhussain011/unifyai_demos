@@ -23,7 +23,6 @@ Your browser does not support the video tag.
 		<img src="https://skillicons.dev/icons?i=python,docker,github,gcp">
 	</a></p>
 
-## Introduction
 
 ###  Overview
 This Streamlit application provides a user interface for interacting with Unify models through the chat. It allows users to select models and providers, input text, and view the conversation history with two AI assistants at a time. The app collects the data on the users' assessment of the comparative models' performance and provides an easy access to the global leaderboards which can be used as a complementary form of assessment of the performance of the models.
