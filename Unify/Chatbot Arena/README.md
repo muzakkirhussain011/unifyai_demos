@@ -87,7 +87,9 @@ The challenge project "Chatbot arena" is based on [this](https://arxiv.org/abs/2
 
 **System Requirements:**
 
-* **Python**: `version x.y.z`
+* **Python**
+* **streamlit**
+* extra: look into the `requirements.txt` and `requirements-test.txt` files
 
 ---
 
