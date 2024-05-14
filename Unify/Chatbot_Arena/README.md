@@ -8,6 +8,9 @@
 Your browser does not support the video tag.
 </video>
 
+A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
+
+[ChatBot Arena on Streamlit](https://llm-playground-unify.streamlit.app/)
 
 <p align="center">
     <em>This Streamlit application provides a user interface for interacting with Unify models through chat. It allows users to select models and providers, input text, and view the conversation history with AI assistants.
@@ -97,10 +100,6 @@ The challenge project "Chatbot arena" is based on [this article](https://arxiv.o
 ```bash
 streamlit run Chatbot_arena.py
 ```
-
-### Access the web app
-The streamlit version of the app can be accessed [here](https://llm-playground-unify.streamlit.app/).
-
 
 ---
 ## Contributors
