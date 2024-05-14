@@ -7,6 +7,9 @@
 Your browser does not support the video tag.
 </video>
 
+A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
+[RAG Playground on Streamlit](https://unify-rag-playground.streamlit.app/)
+
 RAG Playground is an application that allows you to interact with your PDF files using the Language Model of your choice.
 
 ## Introduction
