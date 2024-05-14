@@ -6,6 +6,10 @@
 Your browser does not support the video tag.
 </video>
 
+A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
+
+[LLM Wars on Streamlit](https://unify-llm-wars-tftznesvztdt2bwsqgub3r.streamlit.app/)
+
 ### Overview
 **LLM Wars** is a web application built with Streamlit that sets up a dynamic competition between two Large Language Models (LLMs). The LLMs engage in a structured debate where they challenge each other by generating complex prompts, responding to those prompts, and evaluating the responses. This application demonstrates the natural language capabilities of modern AI models in an interactive competitive environment with visualizations.
 
@@ -38,8 +42,6 @@ LLM Wars demonstrates novel LLM applications beyond common use cases by creating
 The source code for **LLM Wars** is part of a larger collection of demos. You can access the original source code for this specific project [here](https://github.com/leebissessar5/Unify-LLM-Wars).
 
 ### Live Application
-A live version of the application is hosted on Streamlit, allowing you to interact with it immediately without the need to set up a local environment. Visit the application at: [LLM Wars on Streamlit](https://unify-llm-wars-tftznesvztdt2bwsqgub3r.streamlit.app/).
-
 ### Running Locally
 To run **LLM Wars** locally, clone the repository, then open up a terminal window from this directory (where this README is located) and follow these steps:
 
