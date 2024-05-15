@@ -1,19 +1,3 @@
-function sendCongratulatoryEmail(name, email, certificateLink) {
-  var subject = "🎉 Congratulations on Completing the Unify Contributor Program! 🎉";
-  var body = "Dear " + name + ",<br><br>" +
-             "👏 We are thrilled to congratulate you on successfully completing the Unify Contributor Program. Your dedication and contributions have been exemplary.<br><br>" +
-             "📜 Below is the link to your certificate of completion:<br><br>" +
-             "<a href='" + certificateLink + "'>Certificate Link</a><br><br>" +
-             "🙌 We hope this serves as a token of appreciation for your hard work and commitment.<br><br>" +
-             "🎈 Once again, congratulations and thank you for your valuable contributions! 🎈<br><br>" +
-             "Best regards,<br> Anwaar Khalid";
-
-  MailApp.sendEmail({
-    to: email,
-    subject: subject,
-    htmlBody: body
-  });
-}
 # Chatbot Arena
 
 [Demo](https://github.com/Kacper-W-Kozdon/demos-Unify/assets/102428159/e5908b4e-0cd7-445d-a1ac-3086be2db5ba)
