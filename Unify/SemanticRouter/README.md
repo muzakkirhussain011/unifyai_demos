@@ -2,7 +2,7 @@
 [Demo](https://github.com/ithanigaikumar/demos/assets/107815119/33ceff47-3495-44a9-aad7-c0a3ba3433a8)
 
 <video width="640" height="480" controls>
-  <source src="../../../../_static/semanticrouterapplication" type="video/mp4">
+  <source src="../../../../_static/semanticrouterapplication.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
