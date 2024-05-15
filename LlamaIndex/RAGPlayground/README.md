@@ -2,7 +2,7 @@
 [Demo](https://github.com/abhi2596/rag_demo/assets/80634226/08f6c7c4-65e3-49b4-bfb1-9a5db2cce248)
 
 <video width="640" height="480" autoplay>
-  <source src="../../../../_static/RAG_LlamaIndex.mp4" type="video/mp4">
+  <source src="../../../../_static/RAG_LLamaIndex.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 

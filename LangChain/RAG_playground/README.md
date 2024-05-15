@@ -3,14 +3,12 @@
 [Demo](https://github.com/Anteemony/RAG-Playground/assets/103512255/0d944420-e3e8-43cb-aad3-0a459d8d0318)
 
 <video width="640" height="480" autoplay>
-  <source src="../../../../_static/RAG_playground.mp4" type="video/mp4">
+  <source src="../../../../_static/RAG_Playground.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
 [RAG Playground on Streamlit](https://unify-rag-playground.streamlit.app/)
-
-RAG Playground is an application that allows you to interact with your PDF files using the Language Model of your choice.
 
 ## Introduction
 Streamlit application that enables users to upload a pdf file and chat with an LLM for performing document analysis in a playground environment.
