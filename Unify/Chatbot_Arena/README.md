@@ -7,8 +7,8 @@
 Your browser does not support the video tag.
 </video>
 
-A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
 
+A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
 [ChatBot Arena on Streamlit](https://llm-playground-unify.streamlit.app/)
 
 <p align="center">

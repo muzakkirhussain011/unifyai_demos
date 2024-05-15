@@ -8,7 +8,6 @@
 
 
 A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
-
 [Semantic Router on Streamlit](https://semanticrouterchatbot.streamlit.app/)
 
 ## Introduction:

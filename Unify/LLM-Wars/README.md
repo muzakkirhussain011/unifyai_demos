@@ -6,8 +6,8 @@
 Your browser does not support the video tag.
 </video>
 
-A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
 
+A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
 [LLM Wars on Streamlit](https://unify-llm-wars-tftznesvztdt2bwsqgub3r.streamlit.app/)
 
 ### Overview
