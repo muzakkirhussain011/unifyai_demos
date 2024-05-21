@@ -1,6 +1,6 @@
 # AI Debate App
 
-[demo] (https://github.com/Sanjay8602/demo/assets/121057369/8f98d746-e1f2-497a-b2e2-ecd43e29674b)
+[demo](https://github.com/unifyai/demos/assets/121057369/a2db65f2-a14f-409e-b883-17b5382bddfe)
 
 <video width="640" height="480" autoplay>
   <source src="../../../demos/Unify/LLM_Debate/assets/LLM-Debate.mp4" type="video/mp4">
