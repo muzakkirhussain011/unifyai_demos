@@ -3,7 +3,7 @@
 [demo](https://github.com/unifyai/demos/assets/121057369/a2db65f2-a14f-409e-b883-17b5382bddfe)
 
 <video width="640" height="480" autoplay>
-  <source src="../../../demos/Unify/LLM_Debate/assets/LLM-Debate.mp4" type="video/mp4">
+  <source src="../../../../_static/LLM-Debate.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
