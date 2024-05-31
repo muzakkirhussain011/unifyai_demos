@@ -7,6 +7,9 @@
 Your browser does not support the video tag.
 </video>
 
+A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
+[LLM Debate App on Streamlit](https://llm-playground-unify.streamlit.app/)
+
 
 ## Introduction
 Debate-App is a web application that enables a back-and-forth conversation between two Language Models (LLMs) on a topic chosen by the user. Users can select any two models, input a query, and visualize the dialogue between the LLMs in real-time. Built using Unify and deployed with Streamlit, this application provides a platform for users to witness AI-generated debates and explore the capabilities of different language models.
