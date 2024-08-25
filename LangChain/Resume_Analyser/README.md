@@ -1,4 +1,4 @@
-# RAG Playground 📄🔍
+# Resume Analyser 📄🔍
 
 [Demo](https://github.com/Anteemony/RAG-Playground/assets/103512255/0d944420-e3e8-43cb-aad3-0a459d8d0318)
 
