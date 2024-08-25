@@ -1,4 +1,4 @@
-# RAG Playground 🛝
+# RAG Playground 📄🔍
 
 [Demo](https://github.com/Anteemony/RAG-Playground/assets/103512255/0d944420-e3e8-43cb-aad3-0a459d8d0318)
 
@@ -51,6 +51,4 @@ python -m streamlit run rag_script.py
 
 | Name | GitHub Profile |
 |------|----------------|
-| Anthony Okonneh | [AO](https://github.com/Anteemony) |
-| Oscar Arroyo Vega | [OscarAV](https://github.com/OscarArroyoVega) |
-| Martin Oywa | [Martin Oywa](https://github.com/martinoywa) |
+| Syed Muzakkir Hussain | [muzakkirhussain011](https://github.com/muzakkirhussain011) |
