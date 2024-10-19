@@ -1,5 +1,6 @@
 # 📊 Chat with Your CSV Data  
-[🚀 Demo](https://github.com/muzakkirhussain011/unifyai_demos/blob/main/videos/Chat%20with%20CSV%20-%20Google%20Chrome%202024-10-19%2009-38-56.mp4)  
+
+[🚀 Demo](https://github.com/unifyai/demos/assets/121057369/a2db65f2-a14f-409e-b883-17b5382bddfe)
 
 <video width="640" height="480" autoplay>
   <source src="../../../../_static/LLM-Debate.mp4" type="video/mp4">
