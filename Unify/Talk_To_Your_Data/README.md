@@ -1,6 +1,6 @@
 # 📊 Chat with Your CSV Data  
 
-[🚀 Demo](https://github.com/muzakkirhussain011/unifyai_demos/blob/main/videos/Talk_To_Your_Data.mp4)
+[🚀 Demo]
 
 <video width="640" height="480" autoplay>
   <source src="https://github.com/muzakkirhussain011/unifyai_demos/blob/main/videos/Talk_To_Your_Data.mp4" type="video/mp4">
