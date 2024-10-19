@@ -1,65 +1,58 @@
-# LLM-Wars
+# Chat with Your CSV Data
 [Demo](https://github.com/unifyai/demos/assets/43880587/aba328d2-4c9e-4cd4-a6aa-82657e806145)
 
 <video width="640" height="480" autoplay>
-  <source src="../../../../_static/llm-wars.mp4" type="video/mp4">
+  <source src="../../../../_static/chat_with_csv.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-
-A live version of the application is hosted on Streamlit, try it out yourself using the link below: 
-[LLM Wars on Streamlit](https://unify-llm-wars-tftznesvztdt2bwsqgub3r.streamlit.app/)
+A live version of the application is hosted on Streamlit; try it out yourself using the link below: 
+[Chat with Your CSV on Streamlit](https://your-streamlit-app-url-here)
 
 ### Overview
-**LLM Wars** is a web application built with Streamlit that sets up a dynamic competition between two Large Language Models (LLMs). The LLMs engage in a structured debate where they challenge each other by generating complex prompts, responding to those prompts, and evaluating the responses. This application demonstrates the natural language capabilities of modern AI models in an interactive competitive environment with visualizations.
+**Chat with Your CSV Data** is a web application built with Streamlit that enables users to interact with their CSV datasets through natural language queries. By leveraging the capabilities of Large Language Models (LLMs), users can obtain insights, visualizations, and analyses of their data without needing to write complex code.
 
 ### Objective
-The main goal of LLM Wars is to provide a creative and educational platform for testing AI models against each other following predefined rules. It highlights the strengths and limitations of language models while presenting AI capabilities engagingly to users.
+The main goal of the application is to provide an intuitive and interactive platform for users to analyze and visualize their data simply by asking questions. It demonstrates the potential of AI to facilitate data exploration and understanding, making data science accessible to a broader audience.
 
 ### Tech Stack
-- **Streamlit**: Used for creating the web application interface that is intuitive and interactive.
-- **Unify AI**: Provides the backend LLMs that power the interactions within the application. Unify's API is utilized to send prompts to the LLMs and receive their responses in real-time.
+- **Streamlit**: Used for creating the web application interface, providing an easy-to-use experience for users.
+- **Unify AI**: Provides the backend LLMs that power the interactions within the application. The Unify API is utilized to send prompts to the LLMs and receive their responses in real-time.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib**: For generating visualizations such as histograms.
 
 ### Application Flow
-1. **Initialization**: Users start by selecting two competing LLMs and one judge LLM from a predefined list of available models.
-2. **Competition Cycle**:
-   - **Prompt Suggestion**: LLM1 generates a challenging prompt.
-   - **Response Generation**: LLM2 attempts to respond accurately to the prompt.
-   - **Verification**: LLM1 verifies the correctness of LLM2's response.
-   - **Judgment**: The judge LLM evaluates the interaction. If LLM2's response is deemed incorrect, LLM1 is declared the winner, and the cycle ends. Otherwise, roles are reversed, and the cycle repeats with LLM2 generating the next prompt.
-3. **Visualization**: The application provides a visual representation of the ongoing interaction, scores, and decisions made by the judge LLM.
+1. **Initialization**: Users start by entering their UnifyAI API key and selecting a model and endpoint for interaction.
+2. **Data Upload**: Users upload a CSV file, which is displayed as a preview for review.
+3. **Query Interaction**:
+   - Users enter a question about their data.
+   - The application generates a response using the selected LLM, including relevant insights and visualizations.
+   - If a histogram is requested, the user can select a specific column to visualize.
 
 ### Motivation
-LLM Wars demonstrates novel LLM applications beyond common use cases by creating a competitive AI environment. This pushes the boundaries of what language models can creatively and adaptively achieve. It also serves an educational purpose demystifying AI for audiences like students and professionals.
+The application showcases how LLMs can enhance data analysis by simplifying complex processes. It aims to empower users, regardless of their technical expertise, to gain insights from their data easily.
 
 ### Key Concepts
-- **Natural Language Understanding and Generation**: At the core of LLM Wars is the ability of LLMs to understand and generate human-like text, showcasing advancements in AI language models.
-- **API Integration**: Demonstrates how to effectively integrate and utilize third-party APIs (Unify AI) within a Python-based application.
-
+- **Natural Language Processing**: The application highlights how LLMs can understand and generate human-like responses, enabling users to interact with their data more naturally.
+- **Data Visualization**: Users can visualize their data through histograms and other plots, making it easier to interpret results.
 
 ## Repository and Deployment
 ### Access the Source Code
-The source code for **LLM Wars** is part of a larger collection of demos. You can access the original source code for this specific project [here](https://github.com/leebissessar5/Unify-LLM-Wars).
+The source code for **Chat with Your CSV Data** is available [here](https://github.com/your-github-repo-link).
 
 ### Live Application
+You can access the live application using the following link: [Chat with Your CSV on Streamlit](https://your-streamlit-app-url-here).
+
 ### Running Locally
-To run **LLM Wars** locally, clone the repository, then open up a terminal window from this directory (where this README is located) and follow these steps:
+To run **Chat with Your CSV Data** locally, clone the repository, then open up a terminal window from this directory (where this README is located) and follow these steps:
 
-1. **Install Dependencies**: Install the required Python libraries using pip:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Launch the Application**: Finally, start the application by running:
+2. **Launch the Application**: Start the application by running:
    ```bash
    streamlit run main.py
-   ```
 
-This command initiates the Streamlit server, and you should see a URL displayed in your terminal where you can access the app locally, typically at `http://localhost:8501`.
 
 ## Contributors
 | Name | GitHub Profile |
 |------|----------------|
-| Lee Bissessar | [leebissessar](https://github.com/leebissessar5) |
-| Glorry Sibomana | [WHITELOTUS0](https://github.com/WHITELOTUS0) |
-| Kato Steven Mubiru | [KatoStevenMubiru](https://github.com/KatoStevenMubiru) |
+| Syed Muzakkir Hussain | [muzakkirhussain011](https://github.com/muzakkirhussain011) |
+
