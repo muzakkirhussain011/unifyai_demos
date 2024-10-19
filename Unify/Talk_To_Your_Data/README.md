@@ -3,7 +3,7 @@
 [🚀 Demo](https://github.com/muzakkirhussain011/unifyai_demos/blob/main/videos/Talk_To_Your_Data.mp4)
 
 <video width="640" height="480" autoplay>
-  <source src="../../../../_static/Talk_To_Your_Data.mp4" type="video/mp4">
+  <source src="https://github.com/muzakkirhussain011/unifyai_demos/blob/main/videos/Talk_To_Your_Data.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
