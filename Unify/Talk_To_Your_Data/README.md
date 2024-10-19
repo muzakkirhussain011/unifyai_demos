@@ -1,5 +1,5 @@
 # 📊 Chat with Your CSV Data  
-[🚀 Demo](videos/Talk_To_Your_Data.mp4)  
+[🚀 Demo](https://talk-to-your-data-unifyai.streamlit.app/)  
 
 https://github.com/user-attachments/assets/1d4134cc-3855-433e-a789-d7764f25a7f8
 
