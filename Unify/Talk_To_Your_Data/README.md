@@ -2,7 +2,7 @@
 [🚀 Demo](videos/Talk_To_Your_Data.mp4)  
 
 <video width="640" height="480" autoplay>
-  <source src="../../../../_static/chat_with_csv.mp4" type="video/mp4">
+  <source src="videos/Talk_To_Your_Data.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
