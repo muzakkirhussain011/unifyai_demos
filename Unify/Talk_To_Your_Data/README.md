@@ -63,10 +63,6 @@ Access the live app here: [Chat with Your CSV on Streamlit](https://your-streaml
 ### 💻 Running Locally  
 To run the app locally, follow these steps:  
 
-1. **📥 Clone the Repository**:  
-   ```bash
-   git clone https://github.com/your-github-repo-link
-   cd your-repository-folder
 📦 Install Dependencies:
 ```bash
 pip install -r requirements.txt
@@ -74,7 +70,7 @@ pip install -r requirements.txt
 
 🚀 Launch the Application:
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 This command will start the Streamlit server, and you’ll see a URL (usually `http://localhost:8501`) where you can access the app in your browser.
 
