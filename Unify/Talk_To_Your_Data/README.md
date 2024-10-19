@@ -84,7 +84,3 @@ This command will start the Streamlit server, and you’ll see a URL (usually `h
 | Name      | GitHub Profile                          |  
 |-----------|-----------------------------------------|  
 | Syed Muzakkir Hussain | [muzakkirhussain011](https://github.com/muzakkirhussain011) |
-
----
-
-This version is visually engaging with the right touch of emojis 🎉. Feel free to modify or add more emojis to your liking!
