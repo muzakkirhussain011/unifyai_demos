@@ -14,12 +14,12 @@ Your browser does not support the video tag.
 ---
 
 ### 🧐 Overview  
-**Chat with Your CSV Data** is a web application built with Streamlit that enables users to interact with their CSV datasets through **natural language queries**. By leveraging the power of Large Language Models (LLMs), users can extract insights, visualizations, and analyses from their data without needing to write code!  
+**Chat with Your CSV Data** is a web application built with Streamlit that enables users to interact with their CSV datasets through **natural language queries**. By leveraging the power of Large Language Models (LLMs), users can extract insights, and analyses from their data without needing to write code!  
 
 ---
 
 ### 🎯 Objective  
-The main goal of this app is to provide an intuitive and interactive way for users to analyze and visualize their data using **conversational AI**. It demonstrates how AI can simplify data science and help everyone, regardless of their technical skills, explore data effectively.  
+The main goal of this app is to provide an intuitive and interactive way for users to analyze their data using **conversational AI**. It demonstrates how AI can simplify data science and help everyone, regardless of their technical skills, explore data effectively.  
 
 ---
 
@@ -35,29 +35,22 @@ The main goal of this app is to provide an intuitive and interactive way for use
 2. **📂 Data Upload**: Upload a CSV file and preview it in the app.  
 3. **💬 Query Interaction**:  
    - Ask questions about your data.  
-   - The LLM responds with **insights** or **visualizations**.  
-   - If a histogram is requested, select a specific column to visualize 📊.  
+   - The LLM responds with **insights** 
 
 ---
 
 ### 🎨 Motivation  
-This app showcases how **AI can enhance data analysis** by making it simple and fun. It empowers users to engage with their data conversationally, making data science more **accessible** and **approachable** for everyone.  
-
----
-
-### 🧠 Key Concepts  
-- **Natural Language Processing**: Enables the LLMs to understand and respond naturally to your questions.  
-- **Data Visualization**: Easily generate histograms and charts to interpret your results visually.  
+This app showcases how **AI can enhance data analysis** by making it simple and fun. It empowers users to engage with their data conversationally, making data science more **accessible** and **approachable** for everyone.    
 
 ---
 
 ## 📂 Repository and Deployment  
 
 ### 🔍 Access the Source Code  
-The source code for **Chat with Your CSV Data** is available [here](https://github.com/your-github-repo-link).  
+The source code for **Talk To Your Data** is available [here](https://github.com/muzakkirhussain011/talk-to-your-data/).  
 
 ### 🌐 Live Application  
-Access the live app here: [Chat with Your CSV on Streamlit](https://your-streamlit-app-url-here)  
+Access the live app here: [Chat with Your CSV on Streamlit](https://talk-to-your-data-unifyai.streamlit.app/)  
 
 ---
 
